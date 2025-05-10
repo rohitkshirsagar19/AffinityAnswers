@@ -1,0 +1,17 @@
+2025-05-10 19:53:47,822 - INFO - Starting OLX scraper for 'car cover' in in
+2025-05-10 19:53:47,822 - INFO - Loading page 1 with requests: https://www.olx.in/items/q-car-cover
+2025-05-10 19:53:51,677 - INFO - Page 1 response status: 200
+2025-05-10 19:53:51,747 - WARNING - No listings found on page 1 using any selector method
+2025-05-10 19:53:51,764 - WARNING - Possible CAPTCHA or anti-bot measures detected
+2025-05-10 19:53:51,764 - INFO - Loading page 2 with requests: https://www.olx.in/items/q-car-cover?page=2
+2025-05-10 19:53:58,488 - INFO - Page 2 response status: 200
+2025-05-10 19:53:58,552 - WARNING - No listings found on page 2 using any selector method
+2025-05-10 19:53:58,571 - WARNING - Possible CAPTCHA or anti-bot measures detected
+2025-05-10 19:53:58,571 - INFO - Loading page 3 with requests: https://www.olx.in/items/q-car-cover?page=3
+2025-05-10 19:54:03,148 - INFO - Page 3 response status: 200
+2025-05-10 19:54:03,212 - WARNING - No listings found on page 3 using any selector method
+2025-05-10 19:54:03,225 - WARNING - Possible CAPTCHA or anti-bot measures detected
+2025-05-10 19:54:03,226 - INFO - No results from requests approach, trying API approach
+2025-05-10 19:54:03,686 - INFO - Successfully retrieved data from API
+2025-05-10 19:54:03,686 - INFO - Successfully scraped 20 listings using API approach
+2025-05-10 19:54:03,686 - INFO - Successfully scraped 20 listings
