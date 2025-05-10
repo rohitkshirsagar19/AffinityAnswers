@@ -1,0 +1,148 @@
+OLX Search Results for 'car cover'
+============================================================
+
+Listing #1
+Title: Covered Car Parking - Monthly Rent
+Price: N/A
+Location: N/A
+Date Posted: 2025-05-10T17:59:47+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #2
+Title: Honda VX CVT car cover unused
+Price: {'raw': 1500.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 1,500'}
+Location: N/A
+Date Posted: 2025-05-10T17:00:11+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #3
+Title: Spacious 1 bhk on 3rd floor with exclusive one covered car parking,
+Price: {'raw': 12000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 12,000'}
+Location: N/A
+Date Posted: 2025-05-10T16:22:11+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #4
+Title: 2bhk for rent at Pammal with covered car parking.
+Price: {'raw': 20000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 20,000'}
+Location: N/A
+Date Posted: 2025-05-10T15:18:43+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #5
+Title: Alto car original cover
+Price: {'raw': 700.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 700'}
+Location: N/A
+Date Posted: 2025-05-10T14:50:11+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #6
+Title: 2BHK FLAT SALE Magnolia Fantasia with covered car parking
+
+No broaker
+Price: {'raw': 2690000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 26,90,000'}
+Location: N/A
+Date Posted: 2025-05-10T13:58:02+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #7
+Title: Baleno Delta Car Rim & Rim Covers for Rs 6000
+Price: {'raw': 6000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 6,000'}
+Location: N/A
+Date Posted: 2025-05-10T13:41:31+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #8
+Title: 1 BHK in Kadavanthra, Cochin with covered car park, 1 km from metro
+Price: {'raw': 16000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 16,000'}
+Location: N/A
+Date Posted: 2025-05-10T13:50:10+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #9
+Title: Ritz car cover
+Price: {'raw': 800.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 800'}
+Location: N/A
+Date Posted: 2025-05-10T12:51:58+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #10
+Title: Hyundai I20 Sportz Car Cover
+Price: {'raw': 2000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 2,000'}
+Location: N/A
+Date Posted: 2025-05-10T11:55:46+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #11
+Title: Full Furnished 3BHK flat for sale 5 years old, 1 covered car parking.
+Price: {'raw': 12100000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 1,21,00,000'}
+Location: N/A
+Date Posted: 2025-05-10T10:56:41+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #12
+Title: Car seat cover yel
+Price: {'raw': 2999.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 2,999'}
+Location: N/A
+Date Posted: 2025-05-10T10:47:52+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #13
+Title: Car seat cover Whi
+Price: {'raw': 2999.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 2,999'}
+Location: N/A
+Date Posted: 2025-05-10T10:42:33+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #14
+Title: Car seat cover ele
+Price: {'raw': 2999.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 2,999'}
+Location: N/A
+Date Posted: 2025-05-10T10:27:38+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #15
+Title: A 800 SQFT FURNISHED 1BHK FLAT  COVERED CAR PARK AVAILABLE FOR RENT
+Price: {'raw': 40000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 40,000'}
+Location: N/A
+Date Posted: 2025-04-24T10:30:33+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #16
+Title: 2 Bhk flat for Rent
+1 st floor
+East facing
+Lift, Covered car parking
+Price: {'raw': 17000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 17,000'}
+Location: N/A
+Date Posted: 2025-05-10T08:41:46+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #17
+Title: 2 BHK Flat For sale in Tower With Cover Car parking
+Price: {'raw': 9000000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 90,00,000'}
+Location: N/A
+Date Posted: 2025-05-03T08:12:34+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #18
+Title: New clutch plate new tyre new seat cover gadi full condition
+Price: {'raw': 100000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 1,00,000'}
+Location: N/A
+Date Posted: 2025-05-10T07:55:48+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #19
+Title: Cars Seat Cover
+Price: {'raw': 5500.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 5,500'}
+Location: N/A
+Date Posted: 2025-05-10T00:42:02+05:30
+URL: N/A
+------------------------------------------------------------
+Listing #20
+Title: Luxurious 3Bhk Beutiful Flat Covered Car Parking in Noida Extension
+Price: {'raw': 6199000.0, 'currency': {'iso_4217': 'INR', 'pre': '₹'}, 'display': '₹ 61,99,000'}
+Location: N/A
+Date Posted: 2025-05-09T22:11:43+05:30
+URL: N/A
+------------------------------------------------------------
